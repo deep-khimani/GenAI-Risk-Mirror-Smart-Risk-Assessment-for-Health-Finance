@@ -56,7 +56,7 @@ This web application uses cutting-edge Generative AI (powered by **AI21 Labs**) 
 
 ```bash
 git clone https://github.com/deep-khimani/GenAI-Risk-Mirror-Smart-Risk-Assessment-for-Health-Finance.git
-cd mufg-genai-risk-analyzer
+cd "GenAI-Risk-Mirror-Smart-Risk-Assessment-for-Health-Finance"
 ```
 
 ### 2\. Create and activate a Python virtual environment
